@@ -1,21 +1,17 @@
 # Nhật ký tuần 01 · 15/09 – 21/09/2026
 
-> **File ví dụ** — tên, số liệu và link đều là giả. Tuần mới thì copy
-> [`_mau-tuan.md`](_mau-tuan.md) thành `tuan-02.md`.
-
-**Lead tuần này:** @thanh-vien-a
-**Dữ liệu / task CVAT:** Ảnh giao thông đô thị — [task 12](https://cvat.example.com/tasks/12)
+**Lead tuần này:** (@thanh-vien-a)
+**Dữ liệu / task CVAT:** Ảnh giao thông đô thị — [Task 165]
 
 ## Thành viên và phân công
 
 | Thành viên | Vị trí | Phân công tuần này |
 |---|---|---|
-| Nguyễn Văn A (@thanh-vien-a) | Lead | Chia job, chốt edge case, review xác suất 10% mọi job |
-| Trần Thị B (@thanh-vien-b) | Annotator | Job 101, 102 |
-| Lê Văn C (@thanh-vien-c) | Annotator | Job 103, 104 |
-| Phạm Thị D (@thanh-vien-d) | Reviewer · Annotator | Review job 101–104; gán job 105 |
-
-Phạm Thị D vừa review vừa gán, nên job 105 do Lead review.
+| Trần Minh Hiếu (@thanh-vien-a) | Lead | Chia job, chốt edge case, review xác suất 10% mọi job |
+| NGUYỄN THÀNH ĐẠT (@thanh-vien-b) | Annotator | Job 1513 |
+| NGUYỄN ĐỨC ANH (@thanh-vien-c) | Annotator | Job 1510 |
+| LƯƠNG TUẤN ANH (@thanh-vien-d) | Annotator | Job 1511 |
+| NGUYỄN VĂN TIẾN (@thanh-vien-e) | Reviewer · Annotator | Job 1512, NGUYỄN VĂN TIẾN vừa review vừa gán, nên job 1512 do Lead review.
 
 ## Công việc
 
