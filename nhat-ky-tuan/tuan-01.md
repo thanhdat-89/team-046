@@ -7,11 +7,11 @@
 
 | Thành viên | Vị trí | Phân công tuần này |
 |---|---|---|
-| Trần Minh Hiếu (@thanh-vien-a) | Lead | Chia job, chốt edge case, review xác suất 10% mọi job |
-| NGUYỄN THÀNH ĐẠT (@thanh-vien-b) | Annotator | Job 1513 |
-| NGUYỄN ĐỨC ANH (@thanh-vien-c) | Annotator | Job 1510 |
-| LƯƠNG TUẤN ANH (@thanh-vien-d) | Annotator | Job 1511 |
-| NGUYỄN VĂN TIẾN (@thanh-vien-e) | Reviewer · Annotator | Job 1512, NGUYỄN VĂN TIẾN vừa review vừa gán, nên job 1512 do Lead review.
+| Trần Minh Hiếu  | Lead | Chia job, chốt edge case, review xác suất 10% mọi job |
+| NGUYỄN THÀNH ĐẠT  | Annotator | Job 1513 |
+| NGUYỄN ĐỨC ANH | Annotator | Job 1510 |
+| LƯƠNG TUẤN ANH | Annotator | Job 1511 |
+| NGUYỄN VĂN TIẾN| Reviewer · Annotator | Job 1512, NGUYỄN VĂN TIẾN vừa review vừa gán, nên job 1512 do Lead review.
 
 ## Công việc
 
