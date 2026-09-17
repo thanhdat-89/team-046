@@ -8,7 +8,7 @@
 | Thành viên | Vị trí | Phân công tuần này |
 |---|---|---|
 | Trần Minh Hiếu  | Lead | Chia job, chốt edge case, review xác suất 10% mọi job |
-| NGUYỄN THÀNH ĐẠT  | Annotator | Job 1513 |
+| NGUYỄN THÀNH ĐẠT  | Annotator | Job 1513 và Job 1729|
 | NGUYỄN ĐỨC ANH | Annotator | Job 1510 |
 | LƯƠNG TUẤN ANH | Annotator | Job 1511 |
 | NGUYỄN VĂN TIẾN| Reviewer · Annotator | Job 1512, NGUYỄN VĂN TIẾN vừa review vừa gán, nên job 1512 do Lead review.
@@ -17,7 +17,7 @@
 
 | # | Nội dung công việc | Annotator | Reviewer | Hoàn thành | Ghi chú |
 |---|---|---|---|---|---|
-| 1 | Job 101 — 250 ảnh, bbox `xe_may` / `o_to` / `nguoi` | @thanh-vien-b | @thanh-vien-d | ✅ 100% | Review trả lại 12 ảnh, đã sửa xong |
+| 1 | Job 1513 — 25 ảnh, bbox `xe_may` / `o_to` / `nguoi` | @thanh-vien-b | @thanh-vien-d | ✅ 100% | Review trả lại 12 ảnh, đã sửa xong |
 | 2 | Job 102 — 250 ảnh, cùng nhãn | @thanh-vien-b | @thanh-vien-d | 🟡 70% |  |
 | 3 | Job 103 — 250 ảnh, cùng nhãn | @thanh-vien-c | @thanh-vien-d | ⛔ 30% | Dừng, chờ chốt [P-002](../problem-backlog.md#p-002) |
 | 4 | Job 104 — 250 ảnh, cùng nhãn | @thanh-vien-c | @thanh-vien-d | ⬜ 0% | Làm sau job 103 |
