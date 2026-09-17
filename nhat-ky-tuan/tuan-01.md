@@ -18,10 +18,10 @@
 | # | Nội dung công việc | Annotator | Reviewer | Hoàn thành | Ghi chú |
 |---|---|---|---|---|---|
 | 1 | Job 1513 — 25 ảnh, bbox và polygon vật thể | Nguyễn Thành Đạt | @thanh-vien-d | 16/25 |  |
-| 2 | Job 1729 — 25 ảnh, segmentation | Nguyễn Thành Đạt | @thanh-vien-d | 1/25 |  |
+| 2 | Job 1729 — 25 ảnh, segmentation | Nguyễn Thành Đạt | Nguyễn Đức Anh | 1/25 |  |
 | 3 | Job 1511 — 25 ảnh, bbox và polygon vật thể | Lương Tuấn Anh | @thanh-vien-d | 23/25 | Tạm dừng các trường hợp obj quá mờ |
-| 4 | Job 1727 — 25 ảnh, cùng nhãn | Lương Tuấn Anh | @thanh-vien-d | ⬜ 1/25 | Làm sau job 1511 |
-| 5 | Job 1510 — 25 ảnh, bbox và polygon vật thể |  | Nguyễn Đức Anh | 25/25 | 1 số cái cần chỉnh sửa |
+| 4 | Job 1727 — 25 ảnh, cùng nhãn | Lương Tuấn Anh | Nguyễn Đức Anh | ⬜ 1/25 | Làm sau job 1511 |
+| 5 | Job 1510 — 25 ảnh, bbox và polygon vật thể | Nguyễn Đức Anh | Trần Minh Hiếu | 25/25 | 1 số cái cần chỉnh sửa |
 | 6 | Đọc lại guideline §3, gom các ca chưa rõ | @thanh-vien-a | — | ✅ 100% | Ra P-001, P-002 |
 | 7 | Rà lại job 101 theo QĐ-001 | @thanh-vien-b | @thanh-vien-d | ✅ 100% | Sửa 37 ảnh người ngồi sau |
 
