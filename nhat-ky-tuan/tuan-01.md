@@ -38,9 +38,11 @@ Mức hoàn thành: ✅ xong **và đã qua review** · 🟡 đang làm (ghi %) 
 - P-002 (xe bị che khuất) chưa chốt nên job 103 phải dừng. Lead đã gửi câu hỏi lên BTC.
 - P-003: vẽ lại box y hệt qua các frame liên tiếp mất ~40% thời gian job 105.
   Đang cân nhắc làm tool trong [`source-tool/`](../source-tool/).
+- Xe ô tô bị mờ trong ảnh: có vẽ bbox hay bỏ qua
 
 ## Kế hoạch tuần 02
 
 - Chốt P-002, mở lại job 103.
 - Xong job 102, 104, 105.
 - Quyết định có làm tool cho P-003 hay dùng chế độ Track sẵn có của CVAT.
+- Quyết định xem xử lý như nào với trường hợp các object quá mờ 
