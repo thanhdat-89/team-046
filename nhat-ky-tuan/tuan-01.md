@@ -19,8 +19,8 @@
 |---|---|---|---|---|---|
 | 1 | Job 1513 — 25 ảnh, bbox và polygon vật thể | Nguyễn Thành Đạt | @thanh-vien-d | 16/25 |  |
 | 2 | Job 1729 — 25 ảnh, segmentation | Nguyễn Thành Đạt | @thanh-vien-d | 1/25 |  |
-| 3 | Job 103 — 250 ảnh, cùng nhãn | @thanh-vien-c | @thanh-vien-d | ⛔ 30% | Dừng, chờ chốt [P-002](../problem-backlog.md#p-002) |
-| 4 | Job 104 — 250 ảnh, cùng nhãn | @thanh-vien-c | @thanh-vien-d | ⬜ 0% | Làm sau job 103 |
+| 3 | Job 1511 — 25 ảnh, bbox và polygon vật thể | Lương Tuấn Anh | @thanh-vien-d | 23/25 | Tạm dừng các trường hợp obj quá mờ |
+| 4 | Job 1727 — 25 ảnh, cùng nhãn | Lương Tuấn Anh | @thanh-vien-d | ⬜ 1/25 | Làm sau job 1511 |
 | 5 | Job 105 — 250 ảnh, cùng nhãn | @thanh-vien-d | @thanh-vien-a | 🟡 40% |  |
 | 6 | Đọc lại guideline §3, gom các ca chưa rõ | @thanh-vien-a | — | ✅ 100% | Ra P-001, P-002 |
 | 7 | Rà lại job 101 theo QĐ-001 | @thanh-vien-b | @thanh-vien-d | ✅ 100% | Sửa 37 ảnh người ngồi sau |
