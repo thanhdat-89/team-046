@@ -17,8 +17,8 @@
 
 | # | Nội dung công việc | Annotator | Reviewer | Hoàn thành | Ghi chú |
 |---|---|---|---|---|---|
-| 1 | Job 1513 — 25 ảnh, bbox `xe_may` / `o_to` / `nguoi` | @thanh-vien-b | @thanh-vien-d | ✅ 100% | Review trả lại 12 ảnh, đã sửa xong |
-| 2 | Job 102 — 250 ảnh, cùng nhãn | @thanh-vien-b | @thanh-vien-d | 🟡 70% |  |
+| 1 | Job 1513 — 25 ảnh, bbox và polygon vật thể | Nguyễn Thành Đạt | @thanh-vien-d | 16/25 |  |
+| 2 | Job 1729 — 25 ảnh, segmentation | Nguyễn Thành Đạt | @thanh-vien-d | 1/25 |  |
 | 3 | Job 103 — 250 ảnh, cùng nhãn | @thanh-vien-c | @thanh-vien-d | ⛔ 30% | Dừng, chờ chốt [P-002](../problem-backlog.md#p-002) |
 | 4 | Job 104 — 250 ảnh, cùng nhãn | @thanh-vien-c | @thanh-vien-d | ⬜ 0% | Làm sau job 103 |
 | 5 | Job 105 — 250 ảnh, cùng nhãn | @thanh-vien-d | @thanh-vien-a | 🟡 40% |  |
